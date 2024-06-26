@@ -46,8 +46,8 @@ It might not work in some cases due to version conflits within flutter widgets, 
 
 ### This app is made in Ingenium Hackathon.
 ## Credits:
-**[Saahil Doshi](https://github.com/Legit-Ox)**<br />
 **[Jash Parikh](https://github.com/Jash7447)**<br />
 **[Hash Bhagat](https://github.com/BhagatHarsh)**<br />
+**[Saahil Doshi](https://github.com/Legit-Ox)**<br />
 **[Kathan Dave](https://github.com/KathanrDave)**<br />
 
